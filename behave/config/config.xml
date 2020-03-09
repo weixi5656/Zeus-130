@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DBSet>
+    <service use="false">
+        <host>172.17.0.20</host>
+        <port>3306</port>
+        <user>user</user>
+        <pwd>password</pwd>
+        <database>qa_automation</database>
+        <charset>utf8</charset>
+    </service>
+    <service use="true">
+        <host>172.17.0.20</host>
+        <port>3306</port>
+        <user>user</user>
+        <pwd>password</pwd>
+        <database>qa_automation</database>
+        <charset>utf8</charset>
+    </service>
+</DBSet>
